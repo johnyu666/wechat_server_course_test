@@ -1,0 +1,18 @@
+
+<HTML>
+	<HEAD>
+		<title></title>
+		<meta name="GENERATOR" Content="Microsoft Visual Studio .NET 7.1">
+		<meta name="CODE_LANGUAGE" Content="C#">
+		<meta name="vs_defaultClientScript" content="JavaScript">
+		<meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5">
+		<LINK href="../_style/Styles_rpt.css" type="text/css" rel="stylesheet">
+		
+	</HEAD>
+	<body oncontextmenu=window.event.returnValue=false ondragstart=window.event.returnValue=false onsource=window.event.returnValue=false 
+	leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+		<table id="pageRpt" cellpadding="0" cellspacing="0" border="0" width="100%"><tr><td>
+	<table  width='100%' BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td style='text-align:center;font-weight:bold;font-size:16pt'>江苏农林职业技术学院教师课表</td></tr><tr><td style='text-align:center;font-size:13px'>2018-2019学年第一学期</td></tr></table><br><table width=99% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0><tr><td  width=80% align=left >部门：基础部&ensp;&ensp;教师：王蓓&ensp;&ensp;性别：女&ensp;&ensp;职称：</td></tr></table><TABLE WIDTH=99% BORDER=1 align=center CELLPADDING=0 CELLSPACING=0 bordercolorlight=#000000 bordercolordark=#FFFFFF><TR align=center height=25 ><TD width=9% colspan=2 >&ensp;</TD><TD width=13% align=center >星期一</TD><TD width=13%  align=center >星期二</TD><TD width=13% align=center  >星期三</TD><TD width=13%  align=center >星期四</TD><TD width=13% align=center  >星期五</TD><TD width=13%  align=center >星期六</TD><TD width=13% align=center  >星期日</TD></tr><tr ><td align=center width='5%' rowspan='2' valign=middle >上<br>午</td><td align=center width='4%'  height='150px'>一</td><td valign=top width='13%'>大学英语（专本连读）Ⅲ <br>[1-20周]1-2节 <br>S-B506 ；17畜牧兽医(3+2)1 17畜牧兽医(3+2)2<br>人数：43<br></td><td valign=top width='13%'><br></td><td valign=top width='13%'>大学英语（专本连读）Ⅲ <br>[1-20周]1-2节 <br>S-B506 ；17畜牧兽医(3+2)1 17畜牧兽医(3+2)2<br>人数：43<br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td></tr><tr ><td align=center width='4%'  height='150px'>二</td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td></tr><tr ><td align=center width='5%' rowspan='2' valign=middle >下<br>午</td><td align=center width='4%'  height='150px'>三</td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'>大学英语（专本连读）Ⅲ <br>[1-20周]5-6节 <br>S-B505 ；17林业技术（3+2） 17作物生产技术(3+2)<br>人数：54<br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td></tr><tr ><td align=center width='4%'  height='150px'>四</td><td valign=top width='13%'><br></td><td valign=top width='13%'>大学英语（专本连读）Ⅲ <br>[1-20周]7-8节 <br>S-B505 ；17林业技术（3+2） 17作物生产技术(3+2)<br>人数：54<br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td></tr><tr ><td align=center width='9%' rowspan='1' valign=middle colspan=2 >晚上</td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td><td valign=top width='13%'><br></td></tr></table><TABLE name=theExportData WIDTH=100% BORDER=0 align=center CELLPADDING=0 CELLSPACING=0 ><tr><td width=100% ><b>注1：</b></td></tr><tr><td width=100% ><b>注2：</b></td></tr></table>
+</td></tr></table>
+	</body>
+</HTML>
